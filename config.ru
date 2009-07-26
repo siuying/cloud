@@ -1,3 +1,3 @@
 require 'hello'
 
-run Sinatra::Application.new
+run Sinatra::Application
